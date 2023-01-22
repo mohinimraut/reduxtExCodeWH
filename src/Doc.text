@@ -1,0 +1,16 @@
+npm i redux react-redux redux-thunk
+redux-thunk is a middleware
+------------
+action-creators initiates the actions.O batayenge kya karna hai.
+--------------------
+reducers=>is a pure functions it take the actions and previous state
+ and return the previous state.
+ ->reducer ek initial state lega
+ ----
+ action creators ke undar actions aayenge and reducers ke undar hamare reducer aayenge
+ --------------------
+ Doc.text=>useSelector jo chaiye o state select kar sakate ho.
+ ----------------------
+ useDispatch()=>useDispatch hook action ko dispatch karne ke liye use karate hai
+ ---------------------
+ 
